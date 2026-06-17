@@ -1,14 +1,5 @@
 # 📊 Interactive Visualization with Pandas
 
-Explore, analyze, and visualize data interactively using Pandas and Plotly — all in a Jupyter Notebook.
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-teal)
-![Plotly](https://img.shields.io/badge/Library-Plotly-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
-
 ## 📌 About
 
 This project demonstrates how to build interactive data visualizations using **Pandas** for data manipulation and **Plotly Express** for rich, dynamic charts. It covers bar charts, line charts, scatter plots, and more — rendered interactively inside Jupyter Notebook.
